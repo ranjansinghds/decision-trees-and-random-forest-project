@@ -52,15 +52,15 @@ The dataset used in this project is **LendingClub loan data (2007-2010)**, obtai
 
 ## 📊 Visualizations
 All generated plots and graphs are stored in the `visualizations/` folder. These include:
-- **Histogram of two FICO distributions on top of each other, one for each credit.policy outcome.
+- **Histogram of two FICO distributions on top of each other, one for each credit.policy outcome.**
   ![credit.policy outcome](https://github.com/ranjansinghds/decision-trees-and-random-forest-project/blob/main/Decision%20trees%20and%20Random%20forest%20png/Histogram%20of%20two%20fico%20for%20each%20credit.policy.png)
-- **Histogram of two FICO distributions on top of each other the not.fully.paid column.
+- **Histogram of two FICO distributions on top of each other the not.fully.paid column.**
   ![not.fully.paid column](https://github.com/ranjansinghds/decision-trees-and-random-forest-project/blob/main/Decision%20trees%20and%20Random%20forest%20png/Histogram%20for%20two%20fico%20for%20not.fully.paid.png)
-- **Countplot using seaborn showing the counts of loans by purpose, with the color hue defined by not.fully.paid.
+- **Countplot using seaborn showing the counts of loans by purpose, with the color hue defined by not.fully.paid.**
   ![loans by purpose, with the color hue defined by not.fully.paid](https://github.com/ranjansinghds/decision-trees-and-random-forest-project/blob/main/Decision%20trees%20and%20Random%20forest%20png/countplot%20for%20counts%20of%20loan%20by%20purpose%2C%20with%20hue%20defined%20by%20not.fully.paid.png)
-- **The trend between FICO score and interest rate. Recreate the following jointplot.
+- **The trend between FICO score and interest rate. Recreate the following jointplot.**
   ![The trend between FICO score and interest rate](https://github.com/ranjansinghds/decision-trees-and-random-forest-project/blob/main/Decision%20trees%20and%20Random%20forest%20png/jointplot%20for%20fico%20rate%20and%20interest%20rate.png)
-- **The trend differed between not.fully.paid and credit.policy.
+- **The trend differed between not.fully.paid and credit.policy.**
   ![The trend differed between not.fully.paid and credit.policy](https://github.com/ranjansinghds/decision-trees-and-random-forest-project/blob/main/Decision%20trees%20and%20Random%20forest%20png/lmplots%20for%20not.fully.paid%20and%20credit.policy.png)
 
 
